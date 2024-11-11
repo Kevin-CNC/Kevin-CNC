@@ -29,6 +29,6 @@
 <footer>
   <h1>If you wish to contact me, please do so through:</h1>
   <p>- My Email (kevincncaplescu@gmail.com)</p>
-  <p>- My LinkedIn (Link here)</p>
+  <a href="https://www.linkedin.com/in/kevin-caplescu-56a439333">- My LinkedIn (https://www.linkedin.com/in/kevin-caplescu-56a439333)</a>
   <p>- My Website's Built-in Contact page (work in progress. . .)</p>
 </footer>
