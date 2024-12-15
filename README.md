@@ -1,5 +1,5 @@
 <h1>Hello!👋</h1>
-<h3>Computer Science University Student & Freelance WebDev/Graphic Designer</h2>
+<h2>Computer Science University Student & Freelance WebDev/Graphic Designer</h2>
 <p>
   I'm Kevin, a university student and freelancer working on websites & software development.
   My main goal is to further my own knowledge about software development, whilst also having fun along the way!
@@ -31,5 +31,7 @@
   
   <p>- My Email (kevincncaplescu@gmail.com)</p>
   <a href="https://www.linkedin.com/in/kevin-caplescu-56a439333">- My LinkedIn (https://www.linkedin.com/in/kevin-caplescu-56a439333)</a>
-  <p>- My Website's Built-in Contact page (work in progress. . .)</p>
+  <a href="https://kevin-cnc.github.io/Portafolio/">- My Portafolio Website! (https://kevin-cnc.github.io/Portafolio/) </a>
 </footer>
+
+<p><i>p.s: I tend to add stuff to GitHub, that's why my commits are low...!</i></p>
