@@ -31,6 +31,7 @@
   
   <p>- My Email (kevincncaplescu@gmail.com)</p>
   <a href="https://www.linkedin.com/in/kevin-caplescu-56a439333">- My LinkedIn (https://www.linkedin.com/in/kevin-caplescu-56a439333)</a>
+                                                                                                                                           
   <a href="https://kevin-cnc.github.io/Portafolio/">- My Portafolio Website! (https://kevin-cnc.github.io/Portafolio/) </a>
 </footer>
 
