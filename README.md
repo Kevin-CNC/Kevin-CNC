@@ -35,4 +35,4 @@
   <a href="https://kevin-cnc.github.io/Portafolio/">- My Portafolio Website! (https://kevin-cnc.github.io/Portafolio/) </a>
 </footer>
 
-<p><i>p.s: I tend to add stuff to GitHub, that's why my commits are low...!</i></p>
+<p><i>p.s: I tend to forget to add stuff to GitHub, that's why my commits are low...!</i></p>
