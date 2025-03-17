@@ -17,6 +17,7 @@
     * <b>Python</b><br>
     * <b>HTML & CSS</b><br>
     * <b>Lua</b><br>
+    * <b>Java</b><br>
     * <b>JavaScript (Front-End purposes)</b>
 </p>
 <h3>
