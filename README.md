@@ -33,7 +33,7 @@
   <p>- My Email (kevincncaplescu@gmail.com)</p>
   <a href="https://www.linkedin.com/in/kevin-caplescu-56a439333">- My LinkedIn (https://www.linkedin.com/in/kevin-caplescu-56a439333)</a>
                                                                                                                                            
-  <a href="https://kevin-cnc.github.io/Portafolio/">- My Portafolio Website! (https://kevin-cnc.github.io/Portafolio/) </a>
+  <a href="https://www.kevin-caplescu.dev/">- My Portafolio Website! (https://www.kevin-caplescu.dev/)</a>
 </footer>
 
 <p><i>p.s: I tend to forget to add stuff to GitHub, that's why my commits are low...!</i></p>
