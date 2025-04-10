@@ -18,7 +18,7 @@
     * <b>HTML & CSS</b><br>
     * <b>Lua</b><br>
     * <b>Java</b><br>
-    * <b>JavaScript (Front-End purposes)</b>
+    * <b>JavaScript</b>
 </p>
 <h3>
   What can you find here?👓
