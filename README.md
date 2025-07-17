@@ -1,5 +1,5 @@
 <h1>Hello!👋</h1>
-<h2>Computer Science University Student & Freelance WebDev/Graphic Designer</h2>
+<h2>Computer Science University Student, Web & Software Developer</h2>
 <p>
   I'm Kevin, a university student and freelancer working on websites & software development.
   My main goal is to further my own knowledge about software development, whilst also having fun along the way!
@@ -16,6 +16,7 @@
   The languages I'm currently familiar with:<br>
     * <b>Python</b><br>
     * <b>HTML & CSS</b><br>
+    * <b>Tailwind</b><br>
     * <b>Lua</b><br>
     * <b>Java</b><br>
     * <b>JavaScript</b>
