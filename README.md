@@ -1,40 +1,47 @@
-<h1>Hello!👋</h1>
-<h2>Computer Science University Student, Web & Software Developer</h2>
-<p>
-  I'm Kevin, a university student and freelancer working on websites & software development.
-  My main goal is to further my own knowledge about software development, whilst also having fun along the way!
-</p>
-<space>
-<h3>
-  What do I use? 🤔
-</h3>
-<p>
-  I develop my projects using either:<br>
-    * Visual Studio 2022<br>
-    * <b>Visual Studio Code</b> (Current)
+<h1>Hey, I'm Kevin 👋</h1>
+<h3>Computer Science Student · Software & Web Developer · Systems Engineer Intern @ Ruckus Networks</h3>
 
-  The languages I'm currently familiar with:<br>
-    * <b>Python</b><br>
-    * <b>HTML & CSS</b><br>
-    * <b>Tailwind</b><br>
-    * <b>Lua</b><br>
-    * <b>Java</b><br>
-    * <b>JavaScript</b>
-</p>
-<h3>
-  What can you find here?👓
-</h3>
 <p>
-  I'll be posting projects that I wished to show to the world, along with web-designs & web-apps that I've developed along the way.
+  I'm a Computer Science student at <b>City University of London</b>, currently interning as a <b>Systems Engineer at Ruckus Networks</b>, where I build internal automation tooling and orchestration platforms used across EMEA.
+  <br><br>
+  My goal? Keep building cool things, keep learning, and hopefully break as few production systems as possible along the way.
 </p>
 
-<footer>
-  <h1>If you wish to contact me, please do so through:</h1>
-  
-  <p>- My Email (kevincncaplescu@gmail.com)</p>
-  <a href="https://www.linkedin.com/in/kevin-caplescu-56a439333">- My LinkedIn (https://www.linkedin.com/in/kevin-caplescu-56a439333)</a>
-                                                                                                                                           
-  <a href="https://www.kevin-caplescu.dev/">- My Portafolio Website! (https://www.kevin-caplescu.dev/)</a>
-</footer>
+---
 
-<p><i>p.s: I tend to forget to add stuff to GitHub, that's why my commits are low...!</i></p>
+<h3>🛠️ What I Work With</h3>
+
+<b>Languages:</b>
+`Python` · `TypeScript / JavaScript` · `Java` · `SQL` · `HTML & CSS` · `Lua`
+
+<b>Frameworks & Libraries:</b>
+`FastAPI` · `Flask` · `Django` · `Node.js` · `React` · `TailwindCSS` · `Tauri`
+
+<b>Tools & Platforms:</b>
+`Git & GitHub` · `Visual Studio Code` · `Proxmox` · `Rancher` · `Linux (Ubuntu)` · `SSH` · `PowerShell`
+
+---
+
+<h3>🚀 What You'll Find Here</h3>
+
+<p>
+  A mix of personal projects, experiments, and things I've built along the way — from a <a href="https://webheaven.kevin-caplescu.dev">webhook proxy service</a> for Discord-ROBLOX integration, to an <a href="https://github.com/Kevin-CNC/Enc2024-Cryptography">image-based encryption tool</a> that won <b>Best Cryptography for Society</b> at London Encode 2024. 
+  <br><br>
+  If you're wondering why my commit count looks modest — I work a lot in private repos and internal systems. The iceberg is real.
+</p>
+
+---
+
+---
+
+<h3>📬 Let's Connect</h3>
+
+<p>
+  📧 <a href="mailto:kevincncaplescu@gmail.com">kevincncaplescu@gmail.com</a><br>
+  💼 <a href="https://www.linkedin.com/in/kevin-cpl">LinkedIn</a><br>
+  🌐 <a href="https://www.kevin-caplescu.dev/">Portfolio Website</a>
+</p>
+
+---
+
+<p><i>Bilingual (English & Italian), caffeine-dependent, and perpetually one side project away from a reasonable sleep schedule.</i></p>
