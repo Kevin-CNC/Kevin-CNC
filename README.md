@@ -44,4 +44,4 @@
 
 ---
 
-<p><i>Bilingual (English & Italian), caffeine-dependent, and perpetually one side project away from a reasonable sleep schedule.</i></p>
+<p><i>Bilingual (English & Italian), ready to intake new skills!</i></p>
