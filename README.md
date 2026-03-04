@@ -2,7 +2,7 @@
 <h3>Computer Science Student · Software & Web Developer · Systems Engineer Intern @ Ruckus Networks</h3>
 
 <p>
-  I'm a Computer Science student at <b>City University of London</b>, currently interning as a <b>Systems Engineer at Ruckus Networks</b>, where I build internal automation tooling and orchestration platforms used across EMEA.
+  First Year CS student at <b>City University of London</b>, currently interning as a <b>Systems Engineer at Ruckus Networks</b>, where I build internal automation tooling and orchestration platforms used across EMEA.
   <br><br>
   My goal? Keep building cool things, keep learning, and hopefully break as few production systems as possible along the way.
 </p>
